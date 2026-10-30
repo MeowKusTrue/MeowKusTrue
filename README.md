@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:8b5cf6,100:ec4899&text=MeowKus&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=пишу%20код,%20пока%20кот%20спит&descSize=20&descAlignY=60" alt="MeowKus">
+# MeowKus
 
 <a href="https://github.com/MeowKusTrue">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C084FC&center=true&vCenter=true&width=520&lines=Привет!+Я+MeowKus+%F0%9F%90%88;Делаю+приложения+для+Windows;Пилю+веб-сервисы+и+ботов;Иногда+пишу+моды+для+игр;Люблю,+когда+всё+работает+с+первого+раза" alt="typing">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C084FC&center=true&vCenter=true&width=520&height=50&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21%20%D0%AF%20MeowKus%20%F0%9F%90%88;%D0%94%D0%B5%D0%BB%D0%B0%D1%8E%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B4%D0%BB%D1%8F%20Windows;%D0%9F%D0%B8%D0%BB%D1%8E%20%D0%B2%D0%B5%D0%B1-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B%20%D0%B8%20%D0%B1%D0%BE%D1%82%D0%BE%D0%B2;%D0%98%D0%BD%D0%BE%D0%B3%D0%B4%D0%B0%20%D0%BF%D0%B8%D1%88%D1%83%20%D0%BC%D0%BE%D0%B4%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%B8%D0%B3%D1%80;%D0%9B%D1%8E%D0%B1%D0%BB%D1%8E%2C%20%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0%20%D0%B2%D1%81%D1%91%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82%20%D1%81%20%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B0%D0%B7%D0%B0" alt="typing">
 </a>
 
 ![Просмотры](https://komarev.com/ghpvc/?username=MeowKusTrue&style=flat-square&color=8b5cf6&label=заходили)
@@ -32,7 +32,7 @@
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=260&height=90&lines=%22Работает?;Не+трогай.%22;%22Не+работает?;Тоже+не+трогай,+сначала+кофе.%22" alt="quote">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=300&height=90&lines=%C2%AB%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82%3F%20%D0%9D%D0%B5%20%D1%82%D1%80%D0%BE%D0%B3%D0%B0%D0%B9.%C2%BB;%C2%AB%D0%9D%D0%B5%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82%3F%20%D0%A2%D0%BE%D0%B6%D0%B5%20%D0%BD%D0%B5%20%D1%82%D1%80%D0%BE%D0%B3%D0%B0%D0%B9%2C;%D1%81%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%B0%20%D0%BA%D0%BE%D1%84%D0%B5.%C2%BB" alt="quote">
 
 </td>
 </tr>
@@ -107,16 +107,11 @@
 
 </div>
 
-## 📊 Цифры
+## 📊 Серия
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MeowKusTrue&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="stats">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeowKusTrue&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="langs">
-
 <img src="https://streak-stats.demolab.com?user=MeowKusTrue&theme=radical&hide_border=true" alt="streak">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MeowKusTrue&bg_color=0d1117&color=c084fc&line=8b5cf6&point=ec4899&area=true&area_color=8b5cf6&hide_border=true" alt="activity">
 
 </div>
 
@@ -131,4 +126,3 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:ec4899,100:8b5cf6&section=footer" width="100%" alt="">
