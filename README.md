@@ -76,12 +76,12 @@
 </td>
 <td width="50%" valign="top">
 
-### 🎤 [Spicy Translate](https://github.com/MeowKusTrue/spicy-translate)
-Редактор, в котором делают переводы песен со слово-в-слово синхронизацией для Spicy Lyrics. Волна как в видеоредакторе, перевод через Google или нейросеть.
+### 📸 [Snapling](https://github.com/MeowKusTrue/Snapling)
+Скриншоты для Windows и Linux: выделение области, стрелки и подписи, распознавание и перевод текста. Есть запись GIF и видео, длинные скриншоты и закрепление поверх окон.
 
-![release](https://img.shields.io/github/v/release/MeowKusTrue/spicy-translate?style=flat-square&color=8b5cf6)
+![release](https://img.shields.io/github/v/release/MeowKusTrue/Snapling?style=flat-square&color=8b5cf6)
 
-[⬇️ Скачать](https://github.com/MeowKusTrue/spicy-translate/releases/latest) · [Код](https://github.com/MeowKusTrue/spicy-translate)
+[⬇️ Скачать](https://github.com/MeowKusTrue/Snapling/releases/latest) · [Код](https://github.com/MeowKusTrue/Snapling)
 
 </td>
 </tr>
