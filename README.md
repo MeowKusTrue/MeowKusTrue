@@ -65,6 +65,9 @@
 <td width="50%" valign="top">
 
 ### 🎵 [Pylon](https://github.com/MeowKusTrue/Pylon)
+
+<a href="https://github.com/MeowKusTrue/Pylon"><img src="https://raw.githubusercontent.com/MeowKusTrue/Pylon/main/docs/screenshots/music.png" width="100%" alt="Pylon — воспроизведение музыки и библиотека"></a>
+
 Медиаплеер для Windows на движке VLC, только красивый. Тексты песен идут синхронно с музыкой, есть эквалайзер, конвертер и трансляция на телевизор.
 
 ![stars](https://img.shields.io/github/stars/MeowKusTrue/Pylon?style=flat-square&color=ec4899)
@@ -77,6 +80,9 @@
 <td width="50%" valign="top">
 
 ### 📸 [Snapling](https://github.com/MeowKusTrue/Snapling)
+
+<a href="https://github.com/MeowKusTrue/Snapling"><img src="https://raw.githubusercontent.com/MeowKusTrue/Snapling/main/assets/screenshots/gallery-ru.png" width="100%" alt="Snapling — галерея скриншотов с поиском по тексту"></a>
+
 Скриншоты для Windows и Linux: выделение области, стрелки и подписи, распознавание и перевод текста. Есть запись GIF и видео, длинные скриншоты и закрепление поверх окон.
 
 ![release](https://img.shields.io/github/v/release/MeowKusTrue/Snapling?style=flat-square&color=8b5cf6)
