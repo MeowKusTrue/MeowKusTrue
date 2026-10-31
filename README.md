@@ -113,13 +113,20 @@
 
 </div>
 
-## 📊 Серия
+## 📦 Последние релизы
 
-<div align="center">
+| 🎵 Pylon | 📸 Snapling |
+| :---: | :---: |
+| [![Версия Pylon](https://img.shields.io/github/v/release/MeowKusTrue/Pylon?style=for-the-badge&color=8b5cf6&label=Pylon)](https://github.com/MeowKusTrue/Pylon/releases/latest) | [![Версия Snapling](https://img.shields.io/github/v/release/MeowKusTrue/Snapling?style=for-the-badge&color=ec4899&label=Snapling)](https://github.com/MeowKusTrue/Snapling/releases/latest) |
+| ![Дата релиза Pylon](https://img.shields.io/github/release-date/MeowKusTrue/Pylon?style=flat-square&color=8b5cf6&label=релиз&display_date=published_at) | ![Дата релиза Snapling](https://img.shields.io/github/release-date/MeowKusTrue/Snapling?style=flat-square&color=ec4899&label=релиз&display_date=published_at) |
+| [⬇️ Скачать для Windows](https://github.com/MeowKusTrue/Pylon/releases/latest/download/Pylon-win-Setup.exe) · [Что нового](https://github.com/MeowKusTrue/Pylon/releases/latest) | [⬇️ Скачать для Windows](https://github.com/MeowKusTrue/Snapling/releases/latest/download/Snapling-Setup.exe) · [Что нового](https://github.com/MeowKusTrue/Snapling/releases/latest) |
 
-<img src="https://streak-stats.demolab.com?user=MeowKusTrue&theme=radical&hide_border=true" alt="streak">
+## 🚀 Проекты в цифрах
 
-</div>
+| Проект | Скачивания | Звёзды |
+| :--- | :---: | :---: |
+| [🎵 Pylon](https://github.com/MeowKusTrue/Pylon) | [![Скачивания Pylon](https://img.shields.io/github/downloads/MeowKusTrue/Pylon/total?style=flat-square&color=8b5cf6&label=скачивания)](https://github.com/MeowKusTrue/Pylon/releases) | [![Звёзды Pylon](https://img.shields.io/github/stars/MeowKusTrue/Pylon?style=flat-square&color=ec4899&label=звёзды)](https://github.com/MeowKusTrue/Pylon/stargazers) |
+| [📸 Snapling](https://github.com/MeowKusTrue/Snapling) | [![Скачивания Snapling](https://img.shields.io/github/downloads/MeowKusTrue/Snapling/total?style=flat-square&color=8b5cf6&label=скачивания)](https://github.com/MeowKusTrue/Snapling/releases) | [![Звёзды Snapling](https://img.shields.io/github/stars/MeowKusTrue/Snapling?style=flat-square&color=ec4899&label=звёзды)](https://github.com/MeowKusTrue/Snapling/stargazers) |
 
 ## 📫 Как со мной связаться
 
